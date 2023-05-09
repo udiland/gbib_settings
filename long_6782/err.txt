@@ -1,0 +1,25 @@
+ae.longissima.pgsb.Feb2020.LC.gff3:1974: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:13233: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:15789: expected name=value: 1,4-beta-D-glucanase
+ae.longissima.pgsb.Feb2020.LC.gff3:23488: expected name=value: RIC1-like guanyl-nucleotide exchange factor
+ae.longissima.pgsb.Feb2020.LC.gff3:26994: expected name=value: Ribonuclease H
+ae.longissima.pgsb.Feb2020.LC.gff3:59908: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:71673: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:75947: expected name=value: 2
+ae.longissima.pgsb.Feb2020.LC.gff3:94216: expected name=value: 5
+ae.longissima.pgsb.Feb2020.LC.gff3:105600: expected name=value: Ribonuclease H
+ae.longissima.pgsb.Feb2020.LC.gff3:110717: expected name=value: 2
+ae.longissima.pgsb.Feb2020.LC.gff3:116221: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:125230: expected name=value: 2
+ae.longissima.pgsb.Feb2020.LC.gff3:125788: expected name=value: 2
+ae.longissima.pgsb.Feb2020.LC.gff3:126881: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:128830: expected name=value: RIC1-like guanyl-nucleotide exchange factor
+ae.longissima.pgsb.Feb2020.LC.gff3:149529: expected name=value: 8
+ae.longissima.pgsb.Feb2020.LC.gff3:151543: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:151552: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:155009: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:183181: expected name=value: 1
+ae.longissima.pgsb.Feb2020.LC.gff3:187255: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:195657: expected name=value: 3
+ae.longissima.pgsb.Feb2020.LC.gff3:200676: expected name=value: 5
+GFF3: 24 parser errors

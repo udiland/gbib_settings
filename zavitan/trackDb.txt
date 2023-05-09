@@ -1,0 +1,14 @@
+track genes
+type bigBed 12
+shortLabel genes zavitan
+longLabel genes WEW_V2.0
+bigDataUrl zavitan.bb
+visibility dense
+group genes
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+chr1S	PGSB	gene	143538	144496	.	+	.	ID=AE.SHARON.r1.1SG0000010;primary_confidence_class=LC;
+
+chr1S	PGSB	mRNA	202883743	202883973	.	-	.	ID=AE.SHARON.r1.1SG0022440.1;Parent=AE.SHARON.r1.1SG0022440;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0003676,GO:0015074;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr1S	PGSB	mRNA	442419785	442420114	.	+	.	ID=AE.SHARON.r1.1SG0040180.1;Parent=AE.SHARON.r1.1SG0040180;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0003871,GO:0008168,GO:0008270,GO:0008652,GO:0009086,GO:0016740,GO:0032259,GO:0046872;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr1S	PGSB	mRNA	532080031	532083008	.	+	.	ID=AE.SHARON.r1.1SG0048230.1;Parent=AE.SHARON.r1.1SG0048230;description=Endo-1,3;1,4-beta-D-glucanase;ahrdqual=***;Ontology_term=GO:0016787;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr1S	PGSB	mRNA	532247154	532251978	.	+	.	ID=AE.SHARON.r1.1SG0048260.1;Parent=AE.SHARON.r1.1SG0048260;description=Endo-1,3;1,4-beta-D-glucanase;ahrdqual=***;Ontology_term=GO:0016787;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr2S	PGSB	mRNA	235103510	235103923	.	+	.	ID=AE.SHARON.r1.2SG0112640.1;Parent=AE.SHARON.r1.2SG0112640;description=Mono-/di-acylglycerol lipase, N-terminal;Lipase, class 3;ahrdqual=--*;Ontology_term=GO:0003723,GO:0005198,GO:0016020,GO:0019012,GO:0039660,GO:0042025,GO:0055036;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr2S	PGSB	mRNA	697705359	697705796	.	-	.	ID=AE.SHARON.r1.2SG0145460.1;Parent=AE.SHARON.r1.2SG0145460;description=RNA-directed DNA polymerase (Reverse transcriptase); Polynucleotidyl transferase, Ribonuclease H fold;ahrdqual=*-*;Ontology_term=GO:0003676,GO:0003964,GO:0006278,GO:0016740;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr2S	PGSB	mRNA	984999314	985000798	.	-	.	ID=AE.SHARON.r1.2SG0181490.1;Parent=AE.SHARON.r1.2SG0181490;description=cyclin-dependent kinase D1;1;ahrdqual=--*;Ontology_term=GO:0000049,GO:0000166,GO:0003723,GO:0004812,GO:0004829,GO:0005524,GO:0005737,GO:0006412,GO:0006418,GO:0006435,GO:0016874,GO:0043039,GO:0046872;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	676012850	676013343	.	+	.	ID=AE.SHARON.r1.3SG0253770.1;Parent=AE.SHARON.r1.3SG0253770;description=sulfate transporter 4;2;ahrdqual=--*;Ontology_term=GO:0009734,GO:0016020,GO:0016021,GO:0055085;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	792002964	792003182	.	-	.	ID=AE.SHARON.r1.3SG0266620.1;Parent=AE.SHARON.r1.3SG0266620;description=RNA-directed DNA polymerase (Reverse transcriptase); Ribonuclease H;ahrdqual=--*;Ontology_term=GO:0003676,GO:0003964,GO:0004523,GO:0006278,GO:0090502;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	803599170	803599394	.	-	.	ID=AE.SHARON.r1.3SG0268080.1;Parent=AE.SHARON.r1.3SG0268080;description=RNA-directed DNA polymerase (Reverse transcriptase); Ribonuclease H;ahrdqual=--*;Ontology_term=GO:0003676,GO:0003964,GO:0004523,GO:0006278,GO:0090502;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	157479913	157480215	.	-	.	ID=AE.SHARON.r1.4SG0313170.1;Parent=AE.SHARON.r1.4SG0313170;description=RNA-directed DNA polymerase; Ribonuclease H, related;ahrdqual=--*;Ontology_term=GO:0003964,GO:0006278;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	743845430	743845648	.	+	.	ID=AE.SHARON.r1.4SG0354810.1;Parent=AE.SHARON.r1.4SG0354810;description=RNA-directed DNA polymerase (Reverse transcriptase); Ribonuclease H;ahrdqual=--*;Ontology_term=GO:0003676,GO:0003964,GO:0004523,GO:0006278,GO:0090502;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	807069441	807070014	.	-	.	ID=AE.SHARON.r1.4SG0363990.1;Parent=AE.SHARON.r1.4SG0363990;description=CYCLIN B1;3;ahrdqual=--*;Ontology_term=GO:0003677,GO:0003899,GO:0005634,GO:0005730,GO:0006351,GO:0016740,GO:0016779,GO:0032549,GO:0046872;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	108869386	108877389	.	+	.	ID=AE.SHARON.r1.5SG0380890.3;Parent=AE.SHARON.r1.5SG0380890;description=CYCLIN B2;4;ahrdqual=--*;Ontology_term=GO:0016020,GO:0016021;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr5S	PGSB	mRNA	108869386	108877389	.	+	.	ID=AE.SHARON.r1.5SG0380890.4;Parent=AE.SHARON.r1.5SG0380890;description=CYCLIN B2;4;ahrdqual=--*;Ontology_term=GO:0004497,GO:0005506,GO:0016020,GO:0016491,GO:0016705,GO:0016709,GO:0020037,GO:0044550,GO:0046872,GO:0055114;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr5S	PGSB	mRNA	128751268	128751471	.	+	.	ID=AE.SHARON.r1.5SG0382570.1;Parent=AE.SHARON.r1.5SG0382570;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0070461;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	396240015	396258633	.	+	.	ID=AE.SHARON.r1.5SG0402620.1;Parent=AE.SHARON.r1.5SG0402620;description=sulfate transporter 1;1;ahrdqual=***;Ontology_term=GO:0006508,GO:0008233,GO:0008234;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr5S	PGSB	mRNA	471049236	471049430	.	-	.	ID=AE.SHARON.r1.5SG0408810.1;Parent=AE.SHARON.r1.5SG0408810;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0003677,GO:0003899,GO:0005634,GO:0005730,GO:0006351,GO:0016740,GO:0016779,GO:0032549,GO:0046872;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	532985941	532987406	.	+	.	ID=AE.SHARON.r1.5SG0415710.1;Parent=AE.SHARON.r1.5SG0415710;description=Quinoprotein amine dehydrogenase, beta chain-like; RIC1-like guanyl-nucleotide exchange factor;ahrdqual=--*;Ontology_term=GO:0003690,GO:0003727,GO:0006355,GO:0008380,GO:0009507,GO:0009658,GO:0019843,GO:0032502,GO:0042255;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	856817612	856817995	.	-	.	ID=AE.SHARON.r1.5SG0462230.1;Parent=AE.SHARON.r1.5SG0462230;description=Cyclin B2;2;ahrdqual=--*;Ontology_term=GO:0003676,GO:0015074;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr6S	PGSB	mRNA	288286558	288288347	.	+	.	ID=AE.SHARON.r1.6SG0497750.1;Parent=AE.SHARON.r1.6SG0497750;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0003676,GO:0015074;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	288286558	288288347	.	+	.	ID=AE.SHARON.r1.6SG0497750.2;Parent=AE.SHARON.r1.6SG0497750;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0003676,GO:0015074;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	429353421	429353823	.	-	.	ID=AE.SHARON.r1.6SG0505920.1;Parent=AE.SHARON.r1.6SG0505920;description=Cyclin D2;1;ahrdqual=---;Ontology_term=GO:0003779;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	460378466	460378783	.	-	.	ID=AE.SHARON.r1.6SG0507450.1;Parent=AE.SHARON.r1.6SG0507450;description=Chloroplast Ycf2;ATPase, AAA type, core (ChrC);ahrdqual=--*;Ontology_term=GO:0008270;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr6S	PGSB	mRNA	655835811	655836632	.	+	.	ID=AE.SHARON.r1.6SG0523970.1;Parent=AE.SHARON.r1.6SG0523970;description=cyclin d4;2;ahrdqual=--*;Ontology_term=GO:0006508,GO:0008233,GO:0008234;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	689402531	689403034	.	+	.	ID=AE.SHARON.r1.6SG0527150.1;Parent=AE.SHARON.r1.6SG0527150;description=cyclin a2;1;ahrdqual=--*;Ontology_term=GO:0003677,GO:0003899,GO:0005634,GO:0005730,GO:0006351,GO:0016740,GO:0016779,GO:0032549,GO:0046872;primary_confidence_class=HC;secondary_condidence_class=HC2;
+
+chr6S	PGSB	mRNA	701395300	701395605	.	-	.	ID=AE.SHARON.r1.6SG0528780.1;Parent=AE.SHARON.r1.6SG0528780;description=phosphate transporter 2;1;ahrdqual=--*;Ontology_term=GO:0016020,GO:0016021;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr7S	PGSB	mRNA	481351541	481351927	.	-	.	ID=AE.SHARON.r1.7SG0599350.1;Parent=AE.SHARON.r1.7SG0599350;description=sulfate transporter 1;1;ahrdqual=*-*;Ontology_term=GO:0000049,GO:0000166,GO:0003723,GO:0004812,GO:0004829,GO:0005524,GO:0005737,GO:0006412,GO:0006418,GO:0006435,GO:0016874,GO:0043039,GO:0046872;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr7S	PGSB	mRNA	642235912	642236471	.	-	.	ID=AE.SHARON.r1.7SG0610280.1;Parent=AE.SHARON.r1.7SG0610280;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0003677,GO:0003899,GO:0005634,GO:0006351,GO:0016740,GO:0016779,GO:0032549;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr7S	PGSB	mRNA	968824832	968825849	.	+	.	ID=AE.SHARON.r1.7SG0646600.1;Parent=AE.SHARON.r1.7SG0646600;description=NOD26-like intrinsic protein 2;1;ahrdqual=--*;Ontology_term=GO:0003993,GO:0005773,GO:0005829,GO:0009505,GO:0016311,GO:0016787,GO:0046872,GO:0055062;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chrUn	PGSB	mRNA	89232138	89232461	.	-	.	ID=AE.SHARON.r1.UnG0663990.1;Parent=AE.SHARON.r1.UnG0663990;description=phosphate transporter 2;1;ahrdqual=--*;Ontology_term=GO:0003676,GO:0008270,GO:0015074;primary_confidence_class=HC;secondary_condidence_class=HC2;
+

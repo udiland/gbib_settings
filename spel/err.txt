@@ -1,0 +1,13 @@
+new_gff.gff3:717182: expected name=value: 1
+new_gff.gff3:721821: expected name=value: 1
+new_gff.gff3:724592: expected name=value: TPP2
+new_gff.gff3:738511: expected name=value: Ribonuclease H
+new_gff.gff3:754603: expected name=value: 1
+new_gff.gff3:760440: expected name=value: 1
+new_gff.gff3:761378: expected name=value: 4
+new_gff.gff3:783848: expected name=value: GTPase binding
+new_gff.gff3:783848: expected name=value: GTP binding protein
+new_gff.gff3:785553: expected name=value: GTPase binding
+new_gff.gff3:785553: expected name=value: GTP binding protein
+new_gff.gff3:806556: expected name=value: 1
+GFF3: 12 parser errors

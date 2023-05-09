@@ -1,0 +1,8 @@
+
+track genes
+type bigBed 12
+shortLabel genes aegilpos speltoides
+longLabel genes annotations jul2020 
+bigDataUrl spel.bb
+priority 1
+visibility dense

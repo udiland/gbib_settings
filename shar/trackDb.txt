@@ -1,0 +1,23 @@
+track genes
+type bigBed 12
+shortLabel genes sharonensis
+longLabel genes annotations Feb2020
+bigDataUrl ./tracks/sharonensis.bb
+priority 1
+visibility dense
+
+track genes_HC
+type bigBed 12
+shortLabel genes high conf sharonensis
+longLabel genes annotations high confidence Feb2020
+bigDataUrl ./tracks/sharonensis_HC.bb
+priority 2
+visibility dense
+
+track genes_LC
+type bigBed 12
+shortLabel genes low conf longissima
+longLabel genes annotations low confidence Feb2020
+bigDataUrl ./tracks/sharonensis_LC.bb 
+priority 3
+visibility dense

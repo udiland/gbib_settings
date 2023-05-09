@@ -1,0 +1,25 @@
+ae.sharonensis.pgsb.Feb2020.LC.gff3:1: invalid GFF3 header
+ae.sharonensis.pgsb.Feb2020.LC.gff3:7833: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:15015: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:38992: expected name=value: Lipase, class 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:50314: expected name=value: Polynucleotidyl transferase, Ribonuclease H fold
+ae.sharonensis.pgsb.Feb2020.LC.gff3:62279: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:86880: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.LC.gff3:90868: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.LC.gff3:91269: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.LC.gff3:105750: expected name=value: Ribonuclease H, related
+ae.sharonensis.pgsb.Feb2020.LC.gff3:121369: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.LC.gff3:124391: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:131419: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:140927: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:142985: expected name=value: RIC1-like guanyl-nucleotide exchange factor
+ae.sharonensis.pgsb.Feb2020.LC.gff3:169413: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:169422: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:172853: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:178914: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.LC.gff3:180320: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:205120: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.LC.gff3:209307: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.LC.gff3:221600: expected name=value: 1
+Can't find annotation record "AE.SHARON.r1.1SG0000010" referenced by "AE.SHARON.r1.1SG0000010.1" Parent attribute
+GFF3: 24 parser errors

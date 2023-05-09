@@ -1,0 +1,16 @@
+# first I used splitfasta to create a folder of each contig/chromosome in one file
+python /home/udiland/.local/bin/splitfasta 221207_longissima_pseudomolecules_v1+unanchored_contigs.fasta
+
+# than I moved the 1-7 chromosome out of that directory and remaind only with the contigs
+# now I use a python script 'make_chr_un.py' to concate the contigs to one chromosome with 3 full lines of N (180) plus the end of the line beteween each contig
+
+# than I concatenated all chromosome to one file
+cat 221207_longissima_pseudomolecules_v1_1.fasta 221207_longissima_pseudomolecules_v1_2.fasta 221207_longissima_pseudomolecules_v1_3.fasta 221207_longissima_pseudomolecules_v1_4.fasta 221207_longissima_pseudomolecules_v1_5.fasta 221207_longissima_pseudomolecules_v1_6.fasta 221207_longissima_pseudomolecules_v1_7.fasta 221207_longissima_pseudomolecules_v1_un.fasta > 221207_longissima_pseudomolecules_v1_1234567un.fasta
+
+# and create a 2bit file (inside the browserbox ucsc virtual machine)
+faToTwoBit 221207_longissima_pseudomolecules_v1_1234567un.fasta longissima_221207.2bit
+
+# get chromosome info
+twoBitInfo longissima_221207.2bit stdout | sort -k2nr > chromSizes_sorted.txt
+
+

@@ -1,0 +1,188 @@
+
+track genes
+type bigBed 12
+shortLabel genes longissima
+longLabel genes annotations Feb2020
+bigDataUrl ./tracks/longissima_with_desc.bb
+labelFields name
+visibility dense
+group genes
+
+track genes_HC
+type bigBed 12
+shortLabel genes high conf longissima
+longLabel genes annotations high confidence Feb2020
+bigDataUrl ./tracks/longissima_HC.bb
+visibility hide
+group genes
+
+track genes_LC
+type bigBed 12
+shortLabel genes low conf longissima
+longLabel genes annotations low confidence Feb2020
+bigDataUrl ./tracks/longissima_LC.bb 
+visibility hide
+group genes
+
+#track Aeg-297
+#type bam
+#shortLabel Aeg-297 alignment
+#longLabel alignment of Aeg-297 against Aeg-6782 
+#bigDataUrl ../long_297/A297_A6782.sorted.bam
+#indelDoubleInsert on
+#indelQueryInsert on
+#visibility hide
+#group longissima_acc
+
+#track Aeg-1359
+#type bam
+#shortLabel Aeg-1359 alignment
+#longLabel alignment of Aeg-1359 against Aeg-6782 
+#bigDataUrl ../long_1359/A1359_A6782.sorted.bam
+#indelDoubleInsert on
+#indelQueryInsert on
+#visibility hide
+#group longissima_acc
+
+#track Aeg-1874
+#type bam
+#shortLabel Aeg-1874 alignment
+#longLabel alignment of Aeg-1874 against Aeg-6782 
+#bigDataUrl ../long_1874/A1874_A6782.sorted.bam
+#indelDoubleInsert on
+#indelQueryInsert on
+#visibility hide
+#group longissima_acc
+
+track R548_0h
+type bigWig 
+windowingFunction mean+whiskers
+shortLabel R548 Expression 0h
+longLabel Expression of Sharonensis R548_0h
+bigDataUrl ./RNA/R548_0h_unique.bw
+group Expression
+
+track R548_24h
+type bigWig 
+shortLabel R548 Expression 24h
+longLabel Expression of Sharonensis R548_24h
+bigDataUrl ./RNA/R548_24h_unique.bw
+group Expression
+
+track R548_48h
+type bigWig 
+shortLabel R548 Expression 48h
+longLabel Expression of Sharonensis R548_48h
+bigDataUrl ./RNA/R548_48h_unique.bw
+group Expression
+
+#track shar_chr6_aln
+#type bigPsl
+#shortLabel shar_chr6_aln
+#longLabel Alignment of chr6 longissima and sharonensis
+#bigDataUrl ../maf_files/LAST/chrom6_bigPsl.bb
+
+track gwas_LR_scaffolds
+type bam
+shortLabel gwas_10M_assembly_bwa
+longLabel bwa results of gwas 10M kmers spades assembly
+bigDataUrl ./tracks/bwa_aln_conitgs.sorted.bam
+
+
+#track kmers_uniq_aligned_LR12460
+#type bigBed 9
+#shortLabel kmers_uniq
+#longLabel kmers_uniq_LR-12460
+#bigDataUrl ./tracks/kmers_LR_12460_uniq_only.bb
+#itemRgb on
+#visibility hide
+
+track SR_2127_scaffolds
+type bigBed 4
+shortLabel SR_2127_scaffolds
+longLabel SR_2127 gwas kmer assembled scaffold
+bigDataUrl ./tracks/contigs_uniq_kmer.bb
+visibility hide
+
+
+#track SNP_bed
+#type bigBed 3 +
+#shortLabel longissima panel variations
+#longLabel longissima_SNV
+#bigDataUrl ./tracks/long_vcf_filtered.bb
+#labelFields score
+#visibility hide
+
+
+track VCF_1S
+type vcfTabix
+shortLabel VCF 1S
+longLabel Genomic variations 1S
+bigDataUrl ./tracks/long_chr1_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr1_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_2S
+type vcfTabix
+shortLabel VCF 2S
+longLabel Genomic variations 2S
+bigDataUrl ./tracks/long_chr2_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr2_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_3S
+type vcfTabix
+shortLabel VCF 3S
+longLabel Genomic variations 3S
+bigDataUrl ./tracks/long_chr3_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr3_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_4S
+type vcfTabix
+shortLabel VCF 4S
+longLabel Genomic variations 4S
+bigDataUrl ./tracks/long_chr4_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr4_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_5S
+type vcfTabix
+shortLabel VCF 5S
+longLabel Genomic variations 5S
+bigDataUrl ./tracks/long_chr5_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr5_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_6S
+type vcfTabix
+shortLabel VCF 6S
+longLabel Genomic variations 6S
+bigDataUrl ./tracks/long_chr6_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr6_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_7S
+type vcfTabix
+shortLabel VCF 7S
+longLabel Genomic variations 7S
+bigDataUrl ./tracks/long_chr7_filtered.vcf.gz
+bigDataIndex ./tracks/long_chr7_filtered.vcf.gz.csi
+group Genomic variation
+
+track VCF_Un
+type vcfTabix
+shortLabel VCF Un
+longLabel Genomic variations Un
+bigDataUrl ./tracks/long_chrUn_filtered.vcf.gz
+bigDataIndex ./tracks/long_chrUn_filtered.vcf.gz.csi
+group Genomic variation
+
+
+track contigs
+type bigBed 7
+itemRgb on
+shortLabel contigs
+longLabel longissima assembly contigs
+bigDataUrl ./tracks/long_contigs.bb
+

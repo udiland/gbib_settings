@@ -1,0 +1,7 @@
+track genes
+type bigBed 12
+shortLabel genes tauschii
+longLabel genes tauschii v4.0.49
+bigDataUrl tauschii.bb
+visibility dense
+group genes

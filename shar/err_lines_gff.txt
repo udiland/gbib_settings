@@ -1,0 +1,34 @@
+ae.sharonensis.pgsb.Feb2020.gff3:1: invalid GFF3 header
+ae.sharonensis.pgsb.Feb2020.gff3:21782: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.gff3:39900: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.gff3:48707: expected name=value: 1,4-beta-D-glucanase
+ae.sharonensis.pgsb.Feb2020.gff3:48746: expected name=value: 1,4-beta-D-glucanase
+ae.sharonensis.pgsb.Feb2020.gff3:112272: expected name=value: Lipase, class 3
+ae.sharonensis.pgsb.Feb2020.gff3:145867: expected name=value: Polynucleotidyl transferase, Ribonuclease H fold
+ae.sharonensis.pgsb.Feb2020.gff3:181559: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:254344: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.gff3:268296: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.gff3:269722: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.gff3:314709: expected name=value: Ribonuclease H, related
+ae.sharonensis.pgsb.Feb2020.gff3:354989: expected name=value: Ribonuclease H
+ae.sharonensis.pgsb.Feb2020.gff3:364178: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.gff3:380757: expected name=value: 4
+ae.sharonensis.pgsb.Feb2020.gff3:380776: expected name=value: 4
+ae.sharonensis.pgsb.Feb2020.gff3:382672: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.gff3:403807: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:411136: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:418073: expected name=value: RIC1-like guanyl-nucleotide exchange factor
+ae.sharonensis.pgsb.Feb2020.gff3:465206: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.gff3:498356: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:498365: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:505740: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:506997: expected name=value: ATPase, AAA type, core (ChrC)
+ae.sharonensis.pgsb.Feb2020.gff3:524533: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.gff3:527876: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:529602: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:598489: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:607908: expected name=value: 3
+ae.sharonensis.pgsb.Feb2020.gff3:641269: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.gff3:657468: expected name=value: 1
+Can't find annotation record "AE.SHARON.r1.1SG0000010" referenced by "AE.SHARON.r1.1SG0000010.1" Parent attribute
+GFF3: 33 parser errors

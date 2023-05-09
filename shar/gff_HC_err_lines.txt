@@ -1,0 +1,12 @@
+ae.sharonensis.pgsb.Feb2020.HC.gff3:1: invalid GFF3 header
+ae.sharonensis.pgsb.Feb2020.HC.gff3:31044: expected name=value: 1,4-beta-D-glucanase
+ae.sharonensis.pgsb.Feb2020.HC.gff3:31079: expected name=value: 1,4-beta-D-glucanase
+ae.sharonensis.pgsb.Feb2020.HC.gff3:250145: expected name=value: 4
+ae.sharonensis.pgsb.Feb2020.HC.gff3:250164: expected name=value: 4
+ae.sharonensis.pgsb.Feb2020.HC.gff3:264769: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.HC.gff3:308089: expected name=value: 2
+ae.sharonensis.pgsb.Feb2020.HC.gff3:333398: expected name=value: ATPase, AAA type, core (ChrC)
+ae.sharonensis.pgsb.Feb2020.HC.gff3:348064: expected name=value: 1
+ae.sharonensis.pgsb.Feb2020.HC.gff3:428776: expected name=value: 1
+Can't find annotation record "AE.SHARON.r1.1SG0000030" referenced by "AE.SHARON.r1.1SG0000030.1" Parent attribute
+GFF3: 11 parser errors

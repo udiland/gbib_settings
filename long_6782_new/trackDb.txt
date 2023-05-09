@@ -1,0 +1,9 @@
+track genes
+type bigBed 12
+shortLabel genes longissima
+longLabel liftoff annotations Feb2020
+bigDataUrl ./tracks/longv2_fromliftoff.bb
+labelFields name
+visibility dense
+group genes
+

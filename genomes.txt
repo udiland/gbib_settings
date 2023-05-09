@@ -1,0 +1,158 @@
+genome Longissima
+trackDb long_6782/trackDb.txt
+groups long_6782/groups.txt
+description Ae_longissima_acc_6782
+twoBitPath long_6782/longissima.2bit
+organism Aegilops longissima
+defaultPos chr1S:1000000-2000000
+scientificName Aegilops longissima
+#blat 127.0.0.1 42420
+#transBlat 127.0.0.1 42421
+#isPcr 127.0.0.1 42420 
+#blat 127.0.0.1 42422   # you cannot activate two blat servers on the same genome :(
+#isPcr 127.0.0.1 42422
+groups long_6782/groups.txt
+
+
+genome Longissima_new
+trackDb long_6782_newV2/trackDb.txt
+description Ae_longissima_2022_V2_assembly
+twoBitPath long_6782_newV2/longissima_221207.2bit
+organism Aegilops longissima
+defaultPos chr1S:1000000-2000000
+scientificName Aegilops longissima
+
+
+genome Sharonensis
+trackDb shar/trackDb.txt
+groups shar/groups.txt
+description 181220_Ae_sharonensis_AS1644_pseudomolecules_v1
+twoBitPath shar/sharonensis.2bit
+organism Aegilops sharonensis
+defaultPos chr1S:1000000-2000000
+scientificName Aegilops sharonensis
+
+
+genome Chinese spring 160509
+trackDb trit_A/trackDb.txt
+groups trit_A/groups.txt
+description 160509_Chinese_Spring_v1_pseudomolecules
+twoBitPath trit_A/Triticum_aestivum.2bit
+organism Triticum aestivum
+defaultPos chr1A:1000000-2000000
+scientificName Triticum aestivum
+
+genome Speltoides
+trackDb spel/trackDb.txt
+groups spel/groups.txt
+description 200420_Ae_speltoides_pseudomolecules
+twoBitPath spel/speltoides.2bit
+organism Aegilpos speltoides acc. Tivon
+defaultPos chr1B:1000000-2000000
+scientificName Aegilops speltoides
+
+
+genome Zavitan
+trackDb zavitan/trackDb.txt
+groups zavitan/groups.txt
+description Triticum dicoccoides V2
+twoBitPath zavitan/zavitan.2bit
+organism Triticum dicoccoides/zavitan/wild emmer
+defaultPos Chr1B:1000000-2000000
+scientificName Triticum dicoccoides
+groups zavitan/groups.txt
+
+genome Tauschii
+trackDb tauschii/trackDb.txt
+groups tauschii/groups.txt
+description Aegilops tauschii v4
+twoBitPath tauschii/tauschii.2bit
+organism Aegilopes tauschii
+defaultPos 1D:1000000-2000000
+scientificName Aegilopes tauschii
+groups tauschii/groups.txt
+
+
+genome Longissima_chr1234
+trackDb long_6782/trackDb.txt
+groups long_6782/groups.txt
+description Ae_longissima_acc_6782_chr1234
+twoBitPath long_6782/190708_Ae_longissima_pseudomolecules_V1_chr1234.2bit
+organism Aegilops longissima 1234
+defaultPos chr1S:1000000-2000000
+scientificName Aegilops longissima
+blat 127.0.0.1 42420
+transBlat 127.0.0.1 42421
+isPcr 127.0.0.1 42420 
+groups long_6782/groups.txt
+
+
+genome Longissima_chr567Un
+trackDb long_6782/trackDb.txt
+groups long_6782/groups.txt
+description Ae_longissima_acc_6782_chr567Un
+twoBitPath long_6782/190708_Ae_longissima_pseudomolecules_V1_chr567U.2bit
+organism Aegilops longissima 567Un
+defaultPos chr5S:1000000-2000000
+scientificName Aegilops longissima
+blat 127.0.0.1 42422   
+isPcr 127.0.0.1 42422
+groups long_6782/groups.txt
+
+
+genome Sharonensis_chr1234
+trackDb shar/trackDb.txt
+groups shar/groups.txt
+description 181220_Ae_sharonensis_AS1644_chr1234
+twoBitPath shar/181220_Ae_sharonensis_AS1644_pseudomolecules_v1_split_files/sharonensis_chr1234.2bit
+organism Aegilops sharonensis 1234
+defaultPos chr1S:1000000-2000000
+blat 127.0.0.1 42424
+isPcr 127.0.0.1 42424 
+scientificName Aegilops sharonensis
+
+
+genome Sharonensis_chr56
+trackDb shar/trackDb.txt
+groups shar/groups.txt
+description 181220_Ae_sharonensis_AS1644_chr56
+twoBitPath shar/181220_Ae_sharonensis_AS1644_pseudomolecules_v1_split_files/sharonensis_chr56.2bit
+organism Aegilops sharonensis 56
+defaultPos chr5S:1000000-2000000
+blat 127.0.0.1 42426
+isPcr 127.0.0.1 42426 
+scientificName Aegilops sharonensis
+
+genome Sharonensis_chr7Un
+trackDb shar/trackDb.txt
+groups shar/groups.txt
+description 181220_Ae_sharonensis_AS1644_chr7Un
+twoBitPath shar/181220_Ae_sharonensis_AS1644_pseudomolecules_v1_split_files/sharonensis_chr7Un.2bit
+organism Aegilops sharonensis 7Un
+defaultPos chr7S:1000000-2000000
+blat 127.0.0.1 42428
+isPcr 127.0.0.1 42428 
+scientificName Aegilops sharonensis
+
+
+genome Longissima_new_chr1234
+trackDb long_6782_newV2/trackDb.txt
+description Ae_longissima_NEW_1234
+twoBitPath long_6782_newV2/221207_longissima_pseudomolecules_v1_1234.2bit
+organism longissima_NEW_1234
+defaultPos chr1S:1000000-2000000
+scientificName Aegilops longissima
+blat 127.0.0.1 42430
+isPcr 127.0.0.1 42430
+
+
+genome Longissima_new_chr567un
+trackDb long_6782_newV2/trackDb.txt
+description Ae_longissima_NEW_567un
+twoBitPath long_6782_newV2/221207_longissima_pseudomolecules_v1_567un.2bit
+organism longissima_NEW_567un
+defaultPos chr5S:1000000-2000000
+scientificName Aegilops longissima
+blat 127.0.0.1 42432
+isPcr 127.0.0.1 42432
+

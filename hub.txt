@@ -1,0 +1,5 @@
+hub ICCI
+shortLabel genomes
+longLabel genome assemblies from ICCI
+genomesFile genomes.txt
+email udiland@tauex.tau.ac.il

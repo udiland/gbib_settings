@@ -1,0 +1,48 @@
+chr1S	PGSB	mRNA	33936652	33937397	.	+	.	ID=AE.LONG.r1.1SG0006030.1;Parent=AE.LONG.r1.1SG0006030;description=cyclin d5;1;ahrdqual=--*;Ontology_term=GO:0016740;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr1S	PGSB	mRNA	414182083	414182412	.	+	.	ID=AE.LONG.r1.1SG0036460.1;Parent=AE.LONG.r1.1SG0036460;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0003677,GO:0005575,GO:0008150;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr1S	PGSB	mRNA	502854343	502863428	.	+	.	ID=AE.LONG.r1.1SG0044380.1;Parent=AE.LONG.r1.1SG0044380;description=Endo-1,3;1,4-beta-D-glucanase;ahrdqual=***;Ontology_term=GO:0016787;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr1S	PGSB	mRNA	720436528	720436779	.	+	.	ID=AE.LONG.r1.1SG0069770.1;Parent=AE.LONG.r1.1SG0069770;description=Quinoprotein amine dehydrogenase, beta chain-like; RIC1-like guanyl-nucleotide exchange factor;ahrdqual=--*;Ontology_term=GO:0001510,GO:0008168,GO:0016740,GO:0032259;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr2S	PGSB	mRNA	38514800	38515018	.	+	.	ID=AE.LONG.r1.2SG0082450.1;Parent=AE.LONG.r1.2SG0082450;description=RNA-directed DNA polymerase (Reverse transcriptase); Ribonuclease H;ahrdqual=--*;Ontology_term=GO:0003676,GO:0003964,GO:0004523,GO:0006278,GO:0090502;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	63493746	63494285	.	-	.	ID=AE.LONG.r1.3SG0183110.1;Parent=AE.LONG.r1.3SG0183110;description=CYCLIN B1;3;ahrdqual=--*;Ontology_term=GO:0000166,GO:0003955,GO:0010181,GO:0016491,GO:0055114;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	483467456	483467770	.	+	.	ID=AE.LONG.r1.3SG0215270.1;Parent=AE.LONG.r1.3SG0215270;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0003824,GO:0004619,GO:0006096,GO:0008152,GO:0016868;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr3S	PGSB	mRNA	647513687	647514180	.	+	.	ID=AE.LONG.r1.3SG0230520.1;Parent=AE.LONG.r1.3SG0230520;description=sulfate transporter 4;2;ahrdqual=--*;Ontology_term=GO:0043531;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	278696458	278698582	.	-	.	ID=AE.LONG.r1.4SG0290800.1;Parent=AE.LONG.r1.4SG0290800;description=CYCLIN B1;5;ahrdqual=--*;Ontology_term=GO:0001510,GO:0003723,GO:0006364,GO:0006396,GO:0008168,GO:0008173,GO:0016740,GO:0032259,GO:0046872,GO:0051536,GO:0051539;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	723303715	723303933	.	+	.	ID=AE.LONG.r1.4SG0323590.1;Parent=AE.LONG.r1.4SG0323590;description=RNA-directed DNA polymerase (Reverse transcriptase); Ribonuclease H;ahrdqual=--*;Ontology_term=GO:0003676,GO:0003964,GO:0004523,GO:0006278,GO:0090502;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr4S	PGSB	mRNA	829555816	829558409	.	+	.	ID=AE.LONG.r1.4SG0340330.1;Parent=AE.LONG.r1.4SG0340330;description=sulfate transporter 1;2;ahrdqual=--*;Ontology_term=GO:0007166;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	81617626	81617823	.	+	.	ID=AE.LONG.r1.5SG0356770.1;Parent=AE.LONG.r1.5SG0356770;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0000166,GO:0005524,GO:0005737,GO:0006508,GO:0008233,GO:0016787,GO:0030163,GO:0036402,GO:1901800;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	380815130	380815579	.	+	.	ID=AE.LONG.r1.5SG0380240.1;Parent=AE.LONG.r1.5SG0380240;description=sulfate transporter 1;2;ahrdqual=--*;Ontology_term=GO:0003676,GO:0015074;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	413057467	413057817	.	+	.	ID=AE.LONG.r1.5SG0382580.1;Parent=AE.LONG.r1.5SG0382580;description=sulfate transporter 1;2;ahrdqual=--*;Ontology_term=GO:0005634,GO:0006351,GO:0006355,GO:0006357,GO:0032777,GO:0035267;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	452141472	452141666	.	-	.	ID=AE.LONG.r1.5SG0386170.1;Parent=AE.LONG.r1.5SG0386170;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0004180,GO:0004185,GO:0005773,GO:0006508,GO:0008233,GO:0016787;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr5S	PGSB	mRNA	514866341	514867814	.	+	.	ID=AE.LONG.r1.5SG0393030.1;Parent=AE.LONG.r1.5SG0393030;description=Quinoprotein amine dehydrogenase, beta chain-like; RIC1-like guanyl-nucleotide exchange factor;ahrdqual=--*;Ontology_term=GO:0004672,GO:0005509,GO:0005524,GO:0006468,GO:0016301,GO:0016310;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	193443786	193444019	.	-	.	ID=AE.LONG.r1.6SG0460420.1;Parent=AE.LONG.r1.6SG0460420;description=phosphate transporter 1;8;ahrdqual=--*;Ontology_term=GO:0000166,GO:0000209,GO:0000722,GO:0000724,GO:0000781,GO:0004842,GO:0005515,GO:0005524,GO:0005634,GO:0005737,GO:0006281,GO:0006325,GO:0006348,GO:0006351,GO:0006353,GO:0006355,GO:0006366,GO:0006511,GO:0006513,GO:0006974,GO:0010390,GO:0016567,GO:0016740,GO:0030433,GO:0030435,GO:0031571,GO:0031625,GO:0033503,GO:0042138,GO:0042275,GO:0042276,GO:0061630,GO:0070534,GO:0070987,GO:0071596,GO:0071629,GO:0090089,GO:0097505,GO:1990303,GO:1990304;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	256894189	256895978	.	-	.	ID=AE.LONG.r1.6SG0465600.1;Parent=AE.LONG.r1.6SG0465600;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0030246;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	256894189	256895978	.	-	.	ID=AE.LONG.r1.6SG0465600.2;Parent=AE.LONG.r1.6SG0465600;description=CYCLIN D4;1;ahrdqual=--*;Ontology_term=GO:0030246;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr6S	PGSB	mRNA	392102007	392102409	.	-	.	ID=AE.LONG.r1.6SG0473530.1;Parent=AE.LONG.r1.6SG0473530;description=Cyclin D2;1;ahrdqual=---;Ontology_term=GO:0003676,GO:0008270,GO:0015074;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr7S	PGSB	mRNA	448965074	448965460	.	-	.	ID=AE.LONG.r1.7SG0558220.1;Parent=AE.LONG.r1.7SG0558220;description=sulfate transporter 1;1;ahrdqual=*-*;Ontology_term=GO:0005215,GO:0006814,GO:0016020,GO:0016021,GO:0055085;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chr7S	PGSB	mRNA	600830536	600831095	.	-	.	ID=AE.LONG.r1.7SG0569130.1;Parent=AE.LONG.r1.7SG0569130;description=sulfate transporter 1;3;ahrdqual=--*;Ontology_term=GO:0015098,GO:0015689,GO:0016020,GO:0016021;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chrUn	PGSB	mRNA	4122249	4122596	.	+	.	ID=AE.LONG.r1.UnG0596380.1;Parent=AE.LONG.r1.UnG0596380;description=Aquaporin PIP2;3;ahrdqual=--*;Ontology_term=GO:0015267,GO:0016020,GO:0016021,GO:0055085;primary_confidence_class=LC;secondary_condidence_class=LC2;
+
+chrUn	PGSB	mRNA	90778247	90778471	.	-	.	ID=AE.LONG.r1.UnG0613110.1;Parent=AE.LONG.r1.UnG0613110;description=phosphate transporter 4;5;ahrdqual=--*;Ontology_term=GO:0006355,GO:0008270;primary_confidence_class=LC;secondary_condidence_class=LC3;
+

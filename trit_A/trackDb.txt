@@ -1,0 +1,8 @@
+
+track genes
+type bigBed 12
+shortLabel genes chinease spring
+longLabel genes annotations refseqv1.o_2017mar13 
+bigDataUrl trit_a.bb
+priority 1
+visibility dense
